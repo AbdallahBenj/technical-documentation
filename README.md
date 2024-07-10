@@ -1,2 +1,2 @@
-# Technical-Documentation
-Technical Documentation Responsive Web Design 
+# Technical Documentation
+Technical Documentation Responsive Web Design by Abdallah - web developer
