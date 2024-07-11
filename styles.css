@@ -17,7 +17,7 @@ code {
   display : block;
   line-height: 2;
   white-space: pre-line;
-  overflow: auto;
+  overflow: scroll;
 }
 #main-doc {
   margin-left: 320px;
